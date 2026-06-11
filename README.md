@@ -134,12 +134,6 @@ The dataset was cleaned and transformed using Power Query before building the da
 
 ![Dashboard Preview](./Preview.png)
 
-```text
-images/dashboard-overview.png
-images/course-analysis.png
-images/instructor-analysis.png
-```
-
 ---
 
 ## 📋 KPIs Tracked
